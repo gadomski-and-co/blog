@@ -3,7 +3,7 @@ name: Gadomski & Co.
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
-highlighter: pygments
+highlighter: rouge
 
 theme: bitwiser
 
