@@ -5,6 +5,8 @@ markdown: kramdown
 ##syntax highlighter. change it to pygments
 highlighter: pygments
 
+theme: bitwiser
+
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: https://gadomski-and-co.github.io/blog/
 sass:
