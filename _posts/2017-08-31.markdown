@@ -1,0 +1,53 @@
+---
+layout: post
+author: B. Meyers
+title:  "Meeting Notes"
+date:   2017-08-31 23:59:59
+categories:
+---
+
+### Attendence
+
+| Name          | Role      | Present |
+|:--------------|:----------|:-------:|
+| A. Cook       | Developer | 1       |
+| B. Meyers     | Developer | 1       |
+| G. Gadomski   | Manager   | 1       |
+| R. Lachacz    | Developer | 1       |
+| T. Riechlmayr | Coach     | 1       |
+| C. Fisher     | Sponsor   | 1       |
+| B. Debartolo  | Sponsor   | 1       |
+
+### Workflow
+
+There are currently about 430 students in the MSD program working on 80+ Projects. It is estimated that there will be 600+ students in the program within 5 years. Each student and team has to be entered manually into the Purchasing System. Teams have one or more guides assigned to them. There are 5 Lab Assistants that do the bulk of the purchasing.
+
+Teams submit Purchase Requests (PR's) using the Purchasing System. Guides approve or deny the PR's. Then C. Fisher makes the orders using each team's corresponding account number. These orders are entered semi-automatically into the Budget System, which is essentially just an Excel spreadsheet.
+
+Once orders arrive, they are manually verified (by tracking number) and placed on a shelf labelled with the corresponding team's number. An auto-generated email is sent to team's to inform them that their order is available for pickup. Students show their ID to the Lab Assistants who mark orders as picked up.
+
+Acting alongside, but independently from the Purchasing and Budgeting Systems is the Tool Inventory System, which exists in Microsoft Access. Tools have barcodes that are scanned (along with student ID) when team's need to borrow them.
+
+### Under The Hood
+
+The Purchasing System was originally created by a Mechanical Engineering major who integrated it with Shibboleth for authentication. The system is hosted by ITS, but ITS does not support it. The existing documentation is vague and essentially unintelligible to the project Sponsors.
+
+The Purchasing System is a web-application that provides a Dashboard for Teams to submit their PR's, view their PR status, and view the status of orders. Searching of teams and/or projects is incredibly slow; the Sponsors were told that this is because search occurs client-side, not server-side.
+
+The Tool Inventory System is integrated with the Purchasing System in an unknown manner. The Sponsors believe that it is not tied to SIS or Active Directory.
+
+### Existing Bugs
+
+- The current process of creating snapshots of PR and approval records does not work and should be fixed.
+- There is evidence of Excel randomly deleting budget entries.
+
+### Requirements
+
+- The Budget System needs to be integrated into the Purchasing System. The legacy data from the Budget System does not need to be transferred over, but the Sponsors would like the ability to export new budget records to Excel for backup purposes.
+- PR's need to be editable. Students need to be able to fix their PR's after submission without re-entering all of the information into a new PR. Guides, Lab Assistants, and Sponsors need to be able to edit PR's as well.
+- Sponsors need to be able to delete and/or archive inactive teams/projects.
+- Teams need to be able to view their budgets and ask for more money.
+- Increased integration between the Purchasing and Tool Inventory Systems would be helpful; Sponsors would like the ability to use the existing RIT scanners to scan FedEx/USPS labels, which would automatically update the necessary information in the Purchasing System.
+- The Sponsors would like a way to track who picked up orders and when. Ideally, this would be done by scanning student ID's.
+- The Tool Inventory System is in a working state, but the sign-out of tools is not part of the system.
+- All three Systems need smarter permissions for various entities, rather than the current all-or-nothing permissions.
