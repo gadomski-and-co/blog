@@ -3,7 +3,7 @@ layout: post
 author: G. Gadomski
 title:  "8/28 - 9/2 Hours"
 date:   2017-09-02 23:59:59
-categories: Hours
+categories:
 ---
 
 <div data-figure="chart" data-focus="chart" data-type="line"></div>
