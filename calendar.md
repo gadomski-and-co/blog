@@ -9,3 +9,5 @@ sitemap:
 # Schedule
 
 We will keep a tentative and up-to-date schedule of our goals here.
+
+[RIT SE Department Project Timeline](http://www.se.rit.edu/~swen-561/CourseInformation/ProjectTimeline-FallSpring.html)
