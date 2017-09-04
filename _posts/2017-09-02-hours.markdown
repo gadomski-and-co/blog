@@ -1,8 +1,8 @@
 ---
 layout: post
 author: G. Gadomski
-title:  "8/28 - 9/2 Hours"
-date:   2017-09-02 10:59:59
+title:  "8/28 - 9/3 Hours"
+date:   2017-09-04 10:59:59
 categories: hours
 ---
 
@@ -10,14 +10,14 @@ categories: hours
 
 | Name          | Role      | Hours Logged |
 |:--------------|:----------|:------------:|
-| A. Cook       | Developer | 1            |
-| B. Meyers     | Developer | 1            |
-| G. Gadomski   | Manager   | 4.75         |
-| R. Lachacz    | Developer | 1            |
+| A. Cook       | Developer | 3.75         |
+| B. Meyers     | Developer | 5.75         |
+| G. Gadomski   | Manager   | 5.25         |
+| R. Lachacz    | Developer | 2.25         |
 |:--------------|:----------|:------------:|
-| Total         |           | 4.75         |
+| Total         |           | 17           |
 
 
 
 ### Details Spreadsheet
-[Download Spreadsheet]({{ site.url }}/downloads/8-28 - 9-3 hours.pdf)
+[Download Spreadsheet]({{ site.url }}/downloads/8-28 - 9-3 Hours.pdf)

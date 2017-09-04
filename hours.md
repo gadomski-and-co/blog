@@ -44,7 +44,7 @@ sitemap:
         },
         series: [{
             name: 'Hours Logged',
-            data: [4.75] //TODO: Update this
+            data: [17] //TODO: Update this
         }]
     });
 </script>
