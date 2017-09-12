@@ -8,7 +8,7 @@
           <meta name="author" content="{{ site.links.github }}">
         {% endif %}
         <meta name="title" content="{{ page.title }}" >
-        <link rel="icon" type="image/png" href="{{site.root}}favicon.png">
+        <link rel="icon" type="image/png" href="{{site.root}}/favicon.png">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         {% include ssn.html %}
         <!-- Custom CSS -->
@@ -30,6 +30,6 @@
       {% if site.ga_id %}
         {% include analytics.html %}
       {% endif %}
-      <script src="./js/script.js"></script>
+      <script src="{{site.root}}/js/script.js"></script>
     </body>
 </html>
