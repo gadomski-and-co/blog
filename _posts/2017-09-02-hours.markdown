@@ -20,4 +20,4 @@ categories: hours
 
 
 ### Details Spreadsheet
-[Download Spreadsheet]({{ site.url }}/downloads/82893Hours.pdf)
+[Download Spreadsheet]({{ site.root }}/downloads/82893Hours.pdf)
