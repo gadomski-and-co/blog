@@ -9,7 +9,9 @@ theme: minima
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 #base_url: https://gadomski-and-co.github.io/blog/
-base_url: http://se.rit.edu/~gadomskico/
+#base_url:
+base_url: ~gadomskico
+#url: http://se.rit.edu/~gadomskico/
 sass:
   sass_dir: _sass
   style: :compressed
