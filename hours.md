@@ -50,5 +50,5 @@ sitemap:
 </script>
 
 ### Hour Breakdowns
-[8/28 - 9/3 Hours]({% post_url 2017-09-02-hours %})
+[8/28 - 9/3 Hours]({% post_url 2017-09-02-hours %})  
 [9/4 - 9/10 Hours]({% post_url 2017-09-10-hours %})
