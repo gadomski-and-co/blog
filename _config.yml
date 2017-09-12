@@ -11,7 +11,7 @@ theme: minima
 #base_url: https://gadomski-and-co.github.io/blog/
 #base_url:
 base_url: ~gadomskico
-#url: http://se.rit.edu/~gadomskico/
+root: "http://www.se.rit.edu/~gadomskico"
 sass:
   sass_dir: _sass
   style: :compressed

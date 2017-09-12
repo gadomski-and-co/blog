@@ -2,7 +2,7 @@
 	<div class="unit whole about">
 		<p>
 			{% if site.about_image %}
-				<img src="{{ site.about_image }}" alt="Avatar">
+				<img src="{{ site.base_url }}{{ site.about_image }}" alt="Avatar">
 			{% elsif site.links.github %}
 				<img src="https://github.com/{{ site.links.github }}.png" alt="Avatar">
 			{% else %}
