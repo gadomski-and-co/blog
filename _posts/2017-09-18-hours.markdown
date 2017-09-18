@@ -1,0 +1,23 @@
+---
+layout: post
+author: G. Gadomski
+title:  "9/11 - 9/17 Hours"
+date:   2017-09-18 10:59:59
+categories: hours
+---
+
+### Hours Logged this Week
+
+| Name          | Role      | Hours Logged |
+|:--------------|:----------|:------------:|
+| A. Cook       | Developer | 2.50         |
+| B. Meyers     | Developer | 5.50         |
+| G. Gadomski   | Manager   | 12.50        |
+| R. Lachacz    | Developer | 4.00         |
+|:--------------|:----------|:------------:|
+| Total         |           | 24.50        |
+
+
+
+### Details Spreadsheet
+[Download Spreadsheet]({{ site.root }}/downloads/911918Hours.pdf)
