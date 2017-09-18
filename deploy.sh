@@ -8,3 +8,6 @@ scp _site.zip gadomskico@nitron.se.rit.edu:~/
 rm -rf _site.zip
 
 ssh -l gadomskico nitron.se.rit.edu "bash deploy_server.sh"
+
+echo ""
+echo "Site Link: http://www.se.rit.edu/~gadomskico/"
