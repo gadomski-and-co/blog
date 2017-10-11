@@ -1,0 +1,23 @@
+---
+layout: post
+author: G. Gadomski
+title:  "10/2 - 10/8 Hours"
+date:   2017-10-09 10:59:59
+categories: hours
+---
+
+### Hours Logged this Week
+
+| Name          | Role      | Hours Logged |
+|:--------------|:----------|:------------:|
+| A. Cook       | Developer | 3.50         |
+| B. Meyers     | Developer | 4.00         |
+| G. Gadomski   | Manager   | 5.00         |
+| R. Lachacz    | Developer | 3.00         |
+|:--------------|:----------|:------------:|
+| Total         |           | 15.50        |
+
+
+
+### Details Spreadsheet
+[Download Spreadsheet]({{ site.root }}/downloads/102108Hours.pdf)
