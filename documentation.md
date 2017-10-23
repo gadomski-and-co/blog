@@ -8,6 +8,10 @@ sitemap:
 ---
 # Documentation
 
+## Weekly 4-Up Charts
+4-Up Charts for this project. Updated weekly.
+[Download 4-Up Charts]({{ site.root }}/downloads/4UpCharts.pdf)<br><br>
+
 ## Process & Project Plan
 Detailed plan for this project.
 [Download Process & Project Plan]({{ site.root }}/downloads/ProcessProjectPlan.pdf)<br><br>
