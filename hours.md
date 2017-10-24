@@ -21,7 +21,7 @@ sitemap:
             x: -20 //center
         },
         xAxis: {
-            categories: ['8/28 - 9/3', '9/4 - 9/10', '9/11 - 9/17', '9/18 - 9/24', '9/25 - 10/1', '10/2 - 10/8', '10/9 - 10/15'] //TODO: Update this
+            categories: ['8/28 - 9/3', '9/4 - 9/10', '9/11 - 9/17', '9/18 - 9/24', '9/25 - 10/1', '10/2 - 10/8', '10/9 - 10/15', '10/16 - 10/22'] //TODO: Update this
         },
         yAxis: {
             title: {
@@ -44,12 +44,13 @@ sitemap:
         },
         series: [{
             name: 'Hours Logged',
-            data: [17, 17.75, 24.50, 20.50, 14.00, 15.5, 32.5] //TODO: Update this
+            data: [17, 17.75, 24.50, 20.50, 14.00, 15.5, 32.5, 59.5] //TODO: Update this
         }]
     });
 </script>
 
 ### Hour Breakdowns
+[10/16 - 10/22 Hours]({{site.root}}{% post_url 2017-10-24-hours %})<br>
 [10/9 - 10/15 Hours]({{site.root}}{% post_url 2017-10-16-hours %})<br>
 [10/2 - 10/8 Hours]({{site.root}}{% post_url 2017-10-09-hours %})<br>
 [9/25 - 10/1 Hours]({{site.root}}{% post_url 2017-10-02-hours %})<br>
