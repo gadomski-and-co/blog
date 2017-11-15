@@ -120,7 +120,7 @@ sitemap:
         },
         series: [{
             name: 'Estimation Deviation (%)',
-            data: [162.4] //TODO: Update this
+            data: [62.4] //TODO: Update this
         }]
     });
 </script>
