@@ -1,0 +1,23 @@
+---
+layout: post
+author: G. Gadomski
+title:  "11/13 - 11/19 Hours"
+date:   2017-11-20 10:59:59
+categories: hours
+---
+
+### Hours Logged this Week
+
+| Name          | Role      | Hours Logged |
+|:--------------|:----------|:------------:|
+| A. Cook       | Developer | 11.00        |
+| B. Meyers     | Developer | 13.50        |
+| G. Gadomski   | Manager   | 20.00        |
+| R. Lachacz    | Developer | 22.00        |
+|:--------------|:----------|:------------:|
+| Total         |           | 66.50        |
+
+
+
+### Details Spreadsheet
+[Download Spreadsheet]({{ site.root }}/downloads/11131119Hours.pdf)
