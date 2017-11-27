@@ -44,7 +44,7 @@ sitemap:
         },
         series: [{
             name: 'Hours Logged',
-            data: [17, 17.75, 24.50, 20.50, 14.00, 15.5, 32.5, 59.5, 26, 20, 33, 66.5] //TODO: Update this
+            data: [17, 17.75, 24.50, 20.50, 14.00, 15.5, 32.5, 59.5, 26, 20, 33, 66.5, 12.5] //TODO: Update this
         }]
     });
 </script>
