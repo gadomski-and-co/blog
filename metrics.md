@@ -159,3 +159,38 @@ sitemap:
         }]
     });
 </script>
+
+<script type="text/javascript">
+    $('#fourUpBullets').highcharts({
+        title: {
+            text: 'Total Four-Up Chart Bullet Items',
+            x: -20 //center
+        },
+        xAxis: {
+            categories: ['Iteration 1', 'Iteration 2'] //TODO: Update this
+        },
+        yAxis: {
+            title: {
+                text: 'Four-Up Chart Bullet Items'
+            },
+            plotLines: [{
+                value: 0,
+                width: 1,
+                color: '#808080'
+            }]
+        },
+        tooltip: {
+            valueSuffix: ''
+        },
+        legend: {
+            layout: 'vertical',
+            align: 'right',
+            verticalAlign: 'middle',
+            borderWidth: 0
+        },
+        series: [{
+            name: 'Four-Up Chart Bullet Items',
+            data: [38, 32] //TODO: Update this
+        }]
+    });
+</script>
