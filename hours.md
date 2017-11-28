@@ -50,6 +50,9 @@ sitemap:
 </script>
 
 ### Hour Breakdowns
+//TODO: Add here...
+[11/20 - 11/26 Hours]({{site.root}}{% post_url 2017-11-27-hours %})<br>
+[11/13 - 11/19 Hours]({{site.root}}{% post_url 2017-11-20-hours %})<br>
 [11/6 - 11/12 Hours]({{site.root}}{% post_url 2017-11-13-hours %})<br>
 [10/30 - 11/5 Hours]({{site.root}}{% post_url 2017-11-06-hours %})<br>
 [10/23 - 10/29 Hours]({{site.root}}{% post_url 2017-10-30-hours %})<br>
