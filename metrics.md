@@ -19,6 +19,8 @@ sitemap:
 </div>
 <div id="amountOfEmailCorrespondence" style="min-width: 310px; height: 400px; margin: 0 auto">
 </div>
+<div id="fourUpBullets" style="min-width: 310px; height: 400px; margin: 0 auto">
+</div>
 
 <script type="text/javascript">
     $('#hoursWorkDelivered').highcharts({
