@@ -29,7 +29,7 @@ sitemap:
             x: -20 //center
         },
         xAxis: {
-            categories: ['Iteration 1', 'Iteration 2'] //TODO: Update this
+            categories: ['Iteration 1', 'Iteration 2', 'Iteration 3'] //TODO: Update this
         },
         yAxis: {
             title: {
@@ -52,7 +52,7 @@ sitemap:
         },
         series: [{
             name: 'Hours Delivered',
-            data: [31, 62] //TODO: Update this
+            data: [31, 62, 27] //TODO: Update this
         }]
     });
 </script>
@@ -64,7 +64,7 @@ sitemap:
             x: -20 //center
         },
         xAxis: {
-            categories: ['Iteration 1', 'Iteration 2'] //TODO: Update this
+            categories: ['Iteration 1', 'Iteration 2', 'Iteration 3'] //TODO: Update this
         },
         yAxis: {
             title: {
@@ -87,7 +87,7 @@ sitemap:
         },
         series: [{
             name: 'Hours Logged',
-            data: [121.5, 145.5] //TODO: Update this
+            data: [121.5, 145.5, 93] //TODO: Update this
         }]
     });
 </script>
@@ -99,7 +99,7 @@ sitemap:
             x: -20 //center
         },
         xAxis: {
-            categories: ['Iteration 1', 'Iteration 2'] //TODO: Update this
+            categories: ['Iteration 1', 'Iteration 2', 'Iteration 3'] //TODO: Update this
         },
         yAxis: {
             title: {
@@ -122,7 +122,7 @@ sitemap:
         },
         series: [{
             name: 'Estimation Deviation (%)',
-            data: [62.4, 48.4] //TODO: Update this
+            data: [62.4, 48.4, -78.13] //TODO: Update this
         }]
     });
 </script>
@@ -134,7 +134,7 @@ sitemap:
             x: -20 //center
         },
         xAxis: {
-            categories: ['Iteration 1', 'Iteration 2'] //TODO: Update this
+            categories: ['Iteration 1', 'Iteration 2', 'Iteration 3'] //TODO: Update this
         },
         yAxis: {
             title: {
@@ -157,7 +157,7 @@ sitemap:
         },
         series: [{
             name: 'Email Threads',
-            data: [10, 6] //TODO: Update this
+            data: [10, 6, 4] //TODO: Update this
         }]
     });
 </script>
@@ -169,7 +169,7 @@ sitemap:
             x: -20 //center
         },
         xAxis: {
-            categories: ['Iteration 1', 'Iteration 2'] //TODO: Update this
+            categories: ['Iteration 1', 'Iteration 2', 'Iteration 3'] //TODO: Update this
         },
         yAxis: {
             title: {
@@ -192,7 +192,7 @@ sitemap:
         },
         series: [{
             name: 'Four-Up Chart Bullet Items',
-            data: [38, 32] //TODO: Update this
+            data: [38, 32, 39] //TODO: Update this
         }]
     });
 </script>
