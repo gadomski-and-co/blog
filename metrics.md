@@ -39,7 +39,8 @@ sitemap:
                 value: 0,
                 width: 1,
                 color: '#808080'
-            }]
+            }],
+            min: 0
         },
         tooltip: {
             valueSuffix: ''
@@ -74,7 +75,8 @@ sitemap:
                 value: 0,
                 width: 1,
                 color: '#808080'
-            }]
+            }],
+            min: 0
         },
         tooltip: {
             valueSuffix: ''
@@ -109,7 +111,9 @@ sitemap:
                 value: 0,
                 width: 1,
                 color: '#808080'
-            }]
+            }],
+            min: -100,
+            max: 100
         },
         tooltip: {
             valueSuffix: ''
@@ -144,7 +148,8 @@ sitemap:
                 value: 0,
                 width: 1,
                 color: '#808080'
-            }]
+            }],
+            min: 0
         },
         tooltip: {
             valueSuffix: ''
@@ -179,7 +184,8 @@ sitemap:
                 value: 0,
                 width: 1,
                 color: '#808080'
-            }]
+            }],
+            min: 0
         },
         tooltip: {
             valueSuffix: ''

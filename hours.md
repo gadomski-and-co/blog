@@ -31,7 +31,8 @@ sitemap:
                 value: 0,
                 width: 1,
                 color: '#808080'
-            }]
+            }],
+            min: 0
         },
         tooltip: {
             valueSuffix: ''
