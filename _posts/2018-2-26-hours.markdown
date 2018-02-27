@@ -1,0 +1,22 @@
+---
+layout: post
+author: G. Gadomski
+title:  "2/19 - 2/25 Hours"
+date:   2018-2-26 10:59:59
+categories: hours
+---
+
+### Hours Logged this Week
+
+| Name          | Role      | Hours Logged |
+|:--------------|:----------|:------------:|
+| A. Cook       | Developer | 1.50         |
+| B. Meyers     | Developer | 5.00         |
+| G. Gadomski   | Manager   | 4.50         |
+| R. Lachacz    | Developer | 1.00         |
+|:--------------|:----------|:------------:|
+| Total         |           | 12.00        |
+
+
+### Details Spreadsheet
+[Download Spreadsheet]({{ site.root }}/downloads/219225Hours.pdf)
