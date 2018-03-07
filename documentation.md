@@ -19,3 +19,7 @@ Detailed plan for this project.
 ## Domain Model
 A high-level overview of the project's domain.
 [Download Domain Model]({{ site.root }}/downloads/DomainModel.pdf)
+
+## Updated Iteration Schedule
+A breakdown of all tasks in each iteration.
+[Download Iteration Schedule]({{ site.root }}/downloads/IterationSchedule.pdf)
